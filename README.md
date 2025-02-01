@@ -1,6 +1,6 @@
 # ECG Wavelet Analysis and Subject Identification
 
-This repository contains a Python script for analyzing ECG signals using wavelet transforms and machine learning techniques. The script processes ECG data, extracts features, and uses Random Forest and SVM classifiers to identify subjects based on their ECG signals.
+This repository contains a Python script for analyzing ECG signals using wavelet transforms and machine learning techniques. The script processes ECG data, extracts features, and uses Random Forest and SVM classifiers to identify subjects based on their ECG signals. The dataset used in this project is the **PTB Diagnostic ECG Database**, which can be accessed from [PhysioNet](https://www.physionet.org/content/ptbdb/1.0.0/).
 
 ## Table of Contents
 - [Overview](#overview)
